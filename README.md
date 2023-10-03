@@ -1,4 +1,4 @@
-# CSS
+# CSS Layout
 Reminder that CSS is also responsible for the layout of a webpage.
 
 Old method:

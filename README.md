@@ -206,6 +206,6 @@ This is the shorthand for `flex-grow`, `flex-shrink` and `flex-basis` combined.
 
 ```css
 .item {
-  flex: 100px 1 1;
+  flex: 1 1 100px;
 }
 ```
